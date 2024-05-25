@@ -12,6 +12,4 @@
 
 # HackerRank Certificates
 
-<a href="https://github.com/safwannasir49/SkillsCertification/blob/main/sql_basic%20certificate.pdf" target="_blank">
-  <img src="https://github.com/safwannasir49/Hackerrank/assets/127377148/0f32dc5e-d3c4-47f8-a09e-7585053dcdf3" alt="SQL Basic Certificate">
-</a>
+[![image](https://github.com/safwannasir49/Hackerrank/assets/127377148/0f32dc5e-d3c4-47f8-a09e-7585053dcdf3)](https://github.com/safwannasir49/SkillsCertification/blob/main/sql_basic%20certificate.pdf)
